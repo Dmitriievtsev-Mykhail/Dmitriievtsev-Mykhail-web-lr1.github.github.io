@@ -1,1 +1,1 @@
-# Dmitriievtsev-Mykhail-web-lr1.github.github.io
+ПІБ студента: Дмитрієвцев Михаїл Валерійович Група: КВ-12 Назва ЛР: Розробка статичного інтерфейсу Web-додатка Загальне завдання: розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру. Обрана тематика додатка: Телефонний довідник URL (посилання) на документ звіту на Google Drive: https://docs.google.com/document/d/1E1XKgIlYZR4kWkodHYEAiyAO-jmOoGAh/edit?usp=sharing&ouid=108945766945554853194&rtpof=true&sd=true
